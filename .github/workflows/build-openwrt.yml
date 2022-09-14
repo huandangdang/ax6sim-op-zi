@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/MeIsReallyBa/immortalwrt
+  REPO_URL: https://github.com/padavanonly/immortalwrtmt7622
   REPO_BRANCH: openwrt-18.06-k5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
